@@ -1,6 +1,6 @@
 {
     "name": "stylelint-config-chema22r",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Stylelint basic configuration for personal projects",
     "main": "index.js",
     "scripts": {
@@ -23,9 +23,9 @@
     },
     "homepage": "https://github.com/Chema22R/stylelint-config#readme",
     "engines": {
-        "node": ">=14.13.1"
+        "node": ">=12.20.0"
     },
     "peerDependencies": {
-        "stylelint": ">=15.3.0"
+        "stylelint": ">=14.16.0"
     }
 }
