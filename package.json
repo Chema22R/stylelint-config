@@ -1,0 +1,31 @@
+{
+    "name": "stylelint-config-chema22r",
+    "version": "1.0.0",
+    "description": "Stylelint basic configuration for personal projects",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Chema22R/stylelint-config.git"
+    },
+    "keywords": [
+        "stylelint",
+        "stylelintconfig",
+        "linter",
+        "config"
+    ],
+    "author": "Chema22R (https://github.com/Chema22R)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Chema22R/stylelint-config/issues"
+    },
+    "homepage": "https://github.com/Chema22R/stylelint-config#readme",
+    "engines": {
+        "node": ">=14.13.1"
+    },
+    "peerDependencies": {
+        "stylelint": ">=15.3.0"
+    }
+}
